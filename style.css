@@ -9,3 +9,7 @@ h2{
 	color: black;
 	font-size: 16px
 }
+.lenguajes{
+	display: inline-block;
+	width: 300px;
+}
